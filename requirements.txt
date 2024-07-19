@@ -1,0 +1,7 @@
+ultralytics
+scikit-learn
+tensorflow
+scikit-image
+filterpy
+scipy
+# git clone https://github.com/nwojke/deep_sort.git
