@@ -1,4 +1,4 @@
-# object-tracking-yolov8-deep-sort
+# Object-Tracking-Yolov8-DS
 
 Yolov8 object detection + deep sort object tracking !
 
